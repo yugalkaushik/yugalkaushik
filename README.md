@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frontend.**
 
-- 👨‍💻 All of my projects are available at [https://elegant-genie-fb2663.netlify.app/](https://elegant-genie-fb2663.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yugalkaushik.netlify.app/](https://yugalkaushik.netlify.app/)
 
 - 📫 How to reach me **yugalkaushik14@gmail.com**
 
