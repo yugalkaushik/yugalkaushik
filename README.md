@@ -1,4 +1,3 @@
-<h3 align="left">About Me:</h3>
 <h1 align="center">Hi, I'm Yugal Kaushik.</h1>
 <h3 align="center">Passionate student in development, striving to learn, code, and contribute to innovative projects.</h3>
 🌱 I’m currently learning Frameworks and new technologies.<br>💬 Ask me about open source.<br>📫 How to reach me: yugalkaushik14@gmail.com
