@@ -7,7 +7,7 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/yugalkaushik/yugalkaushik/main/name.png" </h3>
 <h3 align="center"> <i>Passionate student in development, striving to learn, code, and contribute to innovative projects. </i></h3>
 <h3 align="center">
-  <a href="https://yugalkaushik.vercel.app/assets/resume-Da18jcjU.pdf">
+  <a href="https://drive.google.com/file/d/14J2JWY_SkupztDhPwzSHCTHJcPKLeo40/view?usp=drive_link">
     <img src="https://raw.githubusercontent.com/yugalkaushik/yugalkaushik/main/read.svg" width="15" height="auto" />
     <span style="color: white; margin-left: 10px; font-weight: bold;"><i>Resume</i></span>
   </a>
